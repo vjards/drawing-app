@@ -1,14 +1,22 @@
 body{
-    background-color: #313131;
+    background-color: ivory;
     margin:0;
     padding:30px;
     overflow:hidden;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
+
+
 
 canvas{
     box-shadow: -3px 2px 9px 6px black;
     cursor:pointer;
+}
+
+h1{
+    display:flex;
+    justify-content: center;
+    color:black;
 }
 
 .tools{
@@ -27,7 +35,7 @@ canvas{
     display: inline-block;
     box-sizing:border-box;
     border-radius: 50%;
-    border:2px solid white;
+    border:2px solid black;
     align-self:center;
     margin:0 15px;
 }
