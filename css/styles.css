@@ -1,9 +1,10 @@
 body{
-    background-color: ivory;
+    background-color:lavender;
     margin:0;
     padding:30px;
     overflow:hidden;
     font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
 }
 
 
@@ -44,10 +45,12 @@ h1{
     align-self:center;
     width:100px;
     height:40px;
-    border: 2px solid white;
     cursor:pointer;
     background-color: black;
+    border-radius:13px;
+    font-family: 'Montserrat', sans-serif;
     color:white;
+    font-size:20px;
     font-weight:bold;
     margin:0 15px;
 }
