@@ -1,7 +1,7 @@
 // VARIABLES
 const canvas = document.getElementById("canvas");
 canvas.width= window.innerWidth - 60;
-canvas.height = 400;
+canvas.height = 650;
 
 let start_background_color="white";
 let context =canvas.getContext("2d");
@@ -94,3 +94,13 @@ function undo_last(){
         context.putImageData(restore_array[index],0,0);
     }
 };
+
+
+function draw_square(){
+    if(canvas.getContext){
+        context.strokeRect(600,175,300,300);
+        context.strokeStyle = draw_color;
+        context.lineWidth = draw_width;
+    }
+};
+
