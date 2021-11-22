@@ -91,10 +91,18 @@ function undo_last(){
     }else{
         index -=1
         restore_array.pop();
-        context.putImageData(restore_array[index],0,0);
+        context.putImageData(restore_array[index], 0,0);
     }
 };
 
+
+//REDO MODIFICATION (Review conditionals, operators, and array methods)
+//function redo(){
+   // if(index < restore_array.length-1){
+     // index += 1;
+     // restore_array.push(restore_array[index], 0, 0);
+   //}  
+//};
 
 function draw_square(){
     if(canvas.getContext){
