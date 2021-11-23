@@ -1,3 +1,3 @@
 # Overview
-# How to Use the App
+# How to Use Go Picasso
 # Contributor
