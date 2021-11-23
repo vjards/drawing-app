@@ -1,18 +1,32 @@
-// VARIABLES
+// CANVAS CHARACTERISTICS
 const canvas = document.getElementById("canvas");
 canvas.width= window.innerWidth - 60;
 canvas.height = 650;
-
 let start_background_color="white";
 let context =canvas.getContext("2d");
 context.fillStyle=start_background_color;
 context.fillRect(0, 0, canvas.width, canvas.height);
 
 
+
+//STROKE DEFAULT CHARACTERISTICS
 let draw_color = "black";
 let draw_width ="2";
 let is_drawing ="false";
 
+
+
+//LINEAR GRADIENT
+//let stroke_gradient =context.createLinearGradient(0,0,170,0);
+//stroke_gradient.addColorStop(0,"magenta");
+//stroke_gradient.addColorStop(0.5,"blue");
+//stroke_gradient.addColorStop(1,"red");
+
+//GRADIENT FILL
+//context.strokeStyle=stroke_gradient;
+//context.stroke();
+
+//LIST OF DRAWINGS
 let restore_array=[];
 let index = -1;
 
@@ -20,6 +34,12 @@ let index = -1;
 function change_color (element){
     draw_color = element.style.background;
 };
+
+//GRADIENT FUNCTION
+//function gradient(element){
+    //draw_color = element.style.background;
+    //draw_color=stroke_gradient;
+//};
 
 
 //DRAWING PICTURES ON MOBILE DEVICES
