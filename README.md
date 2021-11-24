@@ -3,9 +3,9 @@
 Click and press down on the canvas to start drawing your picture.
 # Features
 - *Undo*
-Erase your previous drawing mistake.
+ Erase your previous drawing mistake.
 - *Clear*
-Erase the entire canvas
+ Erase the entire canvas
 - *Square*
-Displays a square shape on the canvas
+ Displays a square shape on the canvas
 # Author
