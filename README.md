@@ -1,3 +1,4 @@
-# Overview
-# How to Use Go Picasso
-# Contributor
+# Go Picasso
+# How Go Picasso Works
+# Features
+# Author
