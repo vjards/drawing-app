@@ -7,4 +7,7 @@ Click and press down on the canvas to start drawing your picture.
  -Erase the entire canvas
 - *Square*
  -Displays a square shape on the canvas
+ - *Color Pallette* 
+ - *Color Picker*
+ - *Paint Stroke Meter*
 # Author
