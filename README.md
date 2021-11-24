@@ -1,6 +1,6 @@
 # Go Picasso
 # How Go Picasso Works
-Click and press down on the canvas to start drawing your picture.
+(insert gif)
 # Toolbar
 - *Undo*  - Erase your previous drawing mistake.
 - *Clear*
