@@ -13,7 +13,9 @@ To add circles, double click on the canvas to create circles all over the canvas
  -Displays a square shape on the canvas
  - *Color Pallette* 
  - *Color Picker* - To customize and select your own color, use the color meter the pick the color you want. Then, drag the circle and hover over the color to modify the lightness and darkness of your color.
+ 
  ![colorpicker](https://media.giphy.com/media/l8lj9xPt1QU7XRPNvA/giphy.gif)
+ 
  - *Paint Stroke Meter* -Slide the meter to the left to create thinner lines but slide the meter to the right to create thicker paint strokes.
 # Author
 **Victoria Ards** 👧🏽
