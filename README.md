@@ -17,6 +17,9 @@ To add circles, double click on the canvas to create circles all over the canvas
  ![colorpicker](https://media.giphy.com/media/l8lj9xPt1QU7XRPNvA/giphy.gif)
  
  - *Paint Stroke Meter* -Slide the meter to the left to create thinner lines but slide the meter to the right to create thicker paint strokes.
+ 
+![strokemeter](https://media.giphy.com/media/0cLNFxUkjQdDPNopjS/giphy.gif)
+ 
 # Author
 **Victoria Ards** 👧🏽
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/vjards/)
