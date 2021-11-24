@@ -3,8 +3,10 @@
 
 # How Go Picasso Works
 Click and press down on the canvas to start drawing your picture.
-To add circles, double click on the canvas to create circles all over the canvas.
-(insert gif)
+To add circles, double click on the canvas.
+
+![connectingdots](https://media.giphy.com/media/T9ujQJHbPLpDltC1HU/giphy.gif)
+
 # Toolbar
 - *Undo*  - Erase your previous drawing mistake.
 - *Clear*
