@@ -23,7 +23,7 @@ To add circles, double click on the canvas.
  
 ![strokemeter](https://media.giphy.com/media/0cLNFxUkjQdDPNopjS/giphy.gif)
 
-Unleash your inner Picasso! [Draw your masterpiece](https://vjards.github.io/go-picasso-app/)
+Unleash your inner Picasso! [Draw your masterpiece.](https://vjards.github.io/go-picasso-app/)
  
 # Author
 **Victoria Ards** 👧🏽
