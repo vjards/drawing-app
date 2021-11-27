@@ -22,6 +22,8 @@ To add circles, double click on the canvas.
  - *Paint Stroke Meter* -Slide the meter to the left to create thinner lines but slide the meter to the right to create thicker paint strokes.
  
 ![strokemeter](https://media.giphy.com/media/0cLNFxUkjQdDPNopjS/giphy.gif)
+
+[StartPainting](https://vjards.github.io/go-picasso-app/)
  
 # Author
 **Victoria Ards** 👧🏽
