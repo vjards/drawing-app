@@ -19,33 +19,33 @@
     <body>
         <div class="application">
             <h1><strong>GO PICASSO!</strong></h1>
+            <!--GO PICASSO CANV-->
            <canvas id="canvas"></canvas>
+           <!--<div class="dark-mode"></div>-->
+           <!--GO PICASSO APP TOOLS-->
                 <div class="tools">
+                    <!--TOGGLE SWITCH-->
+                   <label class="switch">
+                       <input type ="checkbox" id="toggle"/>
+                       <div class="toggle-btn"></div>
+                   </label>
+
                     <!-- UNDO BUTTON-->
                     <button onClick ="undo_last()"type="button" class="button">Undo</button>
-
-                   <!--REDO BUTTON-->
-                    <!--
-                    <button onClick ="redo()"type="button" class="button">Redo</button>
-                    -->
-                    
-                   
+                                   
                    <!--CLEAR CANVAS BUTTON-->
                     <button onClick="clear_canvas()" type="button" class="button">Clear</button>
 
-                    <!--SHAPE BUTTONS-->
-                    <button onClick="draw_square()" type="button" class="button">Square</button> 
-                    
-                    
+                    <!--SHAPE BUTTONS
+                    <button onClick="draw_square()" type="button" class="button">Square</button> -->
+                                        
                     <!--COLOR PALLETTE-->
                     <div onClick= "change_color(this)" class= "color-field" style ="background: red;"></div>
                     <div onClick= "change_color(this)" class= "color-field" style ="background: blue;"></div>
                     <div onClick= "change_color(this)" class= "color-field" style ="background:green;"></div>
                     <div onClick= "change_color(this)" class= "color-field" style ="background:yellow;"></div>
                     <div onClick= "change_color(this)" class= "color-field" style ="background:orange;"></div>
-                    <div onClick= "change_color(this)" class= "color-field" style ="background:purple;"></div>
-                    
-                    <!--<div onClick= "gradient" class= "color-field" style ="background:linear-gradient(magenta, blue, red);"></div>-->
+                    <div onClick= "change_color(this)" class= "color-field" style ="background:purple;"></div>                                    
 
                     <!--COLOR PICKER-->
                     <input onInput= "draw_color=this.value" type="color"  class="color-picker">
