@@ -8,6 +8,7 @@ body{
     font-size: 20px;
 }
 
+
 /*GO PICASSO DARK MODE SETTINGS*/
 body.dark-mode{
     background-color:black;
@@ -26,6 +27,7 @@ h1{
     display:flex;
     justify-content: center;
     color:black;
+    margin-bottom:5px;
 }
 
 .tools{
@@ -74,13 +76,24 @@ h1{
     width: 80px;
     height: 40px;
     margin:0 15px 30px 30px;
-    background:lightseagreen;
+    background:rgb(121, 173, 241);
     border:3px solid white;
     align-self:center;
     position:relative;
     border-radius:20px;
     box-shadow: inset 0 3px 10px rgba(0,0,0,.3);
     cursor: pointer;
+}
+
+/*FONT AWESOME ICONS*/
+.fa-sun{
+    color:yellow;
+    margin-left: 20px;
+    margin-top:10px;
+}
+.fa-moon{
+    color:yellow;
+    margin-left:5px;
 }
 
 /*toggle button*/
