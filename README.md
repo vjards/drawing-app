@@ -7,7 +7,7 @@ Click and press down on the canvas to start drawing your picture.
 To add circles, double click on the canvas.
 
 # Toolbar
--*Toggle Switch* -
+- *Toggle Switch* -
 Customize your app by switching between light and dark color themes.
 ![toggleswitch](https://media.giphy.com/media/3GHjIoIwFQG3Bli2T2/giphy.gif)
 
