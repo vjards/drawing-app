@@ -1,6 +1,5 @@
 # Go Picasso
-![go-picasso](https://user-images.githubusercontent.com/83617105/143626034-b9bbef46-505d-4761-8807-5614b1f07925.PNG)
-
+![go-picasso_daymode](https://user-images.githubusercontent.com/83617105/146984577-fb6bea90-037e-459d-9e41-3bb4f357aa38.PNG)
 
 # How Go Picasso Works
 Click and press down on the canvas to start drawing your picture.
