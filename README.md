@@ -20,7 +20,7 @@ Customize your app by switching between light and dark color themes.
  
  - *Paint Stroke Meter* -Slide the meter to the left to create thinner lines but slide the meter to the right to create thicker paint strokes.
  
-![strokemeter](https://media.giphy.com/media/JrVoNQWJvPqaUHO7UP/giphy.gif)
+  ![strokemeter](https://media.giphy.com/media/JrVoNQWJvPqaUHO7UP/giphy.gif)
 
 Unleash your inner Picasso! [Draw your masterpiece.](https://vjards.github.io/go-picasso-app/)
  
