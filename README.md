@@ -22,7 +22,7 @@ Customize your app by switching between light and dark color themes.
  
   ![strokemeter](https://media.giphy.com/media/JrVoNQWJvPqaUHO7UP/giphy.gif)
 
-## Unleash your inner Picasso! [Draw your masterpiece.](https://vjards.github.io/go-picasso-app/)
+## Unleash your inner Picasso! [Draw your masterpiece.](https://vjards.github.io/go-picasso-app/)🎨
  
 # Author
 **Victoria Ards** 👧🏽
